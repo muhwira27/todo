@@ -3,12 +3,6 @@ import bodyParser from "body-parser";
 import { pool } from "./database"
 import {QueryResult} from 'pg';
 
-let data: any[] = [
-    {description: "belajar", done: false},
-    {description: "tidur", done: false},
-    {description: "mandi", done: false}
-]
-
 class App {
     public app: Application;
 
