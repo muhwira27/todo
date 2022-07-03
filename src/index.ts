@@ -71,4 +71,8 @@ const port = 3000;
 const app = new App().app;
 app.listen(port, () => {
     console.log("Server on port " + port);
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 4ad72c54e93a9eb5bafccf596ea58125243e85bf
