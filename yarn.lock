@@ -711,6 +711,11 @@ keyv@^3.0.0:
   dependencies:
     json-buffer "3.0.0"
 
+kysely@^0.19.8:
+  version "0.19.8"
+  resolved "https://registry.yarnpkg.com/kysely/-/kysely-0.19.8.tgz#5a211ac8ca3b0c3ccac9c961aa85c3fa64d8f715"
+  integrity sha512-4YiUN7JJ+qTtmc3sYAGoNg9+O5jt+/10t4oG3rub0NqA3Abso2gS1OvvllHwkPY0eDH8abmXryVUrGpZ3Edfug==
+
 latest-version@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/latest-version/-/latest-version-5.1.0.tgz#119dfe908fe38d15dfa43ecd13fa12ec8832face"
